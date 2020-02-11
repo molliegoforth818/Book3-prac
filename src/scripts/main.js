@@ -40,6 +40,7 @@
 
 // }
 // const output = document.querySelector("#output")
+
 const salesByWeek = [
     {
         "vehicle": {
